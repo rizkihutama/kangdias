@@ -5,8 +5,17 @@
     <meta charset="utf-8">
     <title>Dias Yudhistira</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+
+    <meta name="title" content="Dias Yudhistira">
+    <meta name="description"
+        content="Kandidat Calon Legislatif Dapil 3 Kota Bogor Tahun 2024 - PKB No.8Bachelor of Political Science Universitas Indonesia.">
+    <meta name="keywords"
+        content="dias, dias yudhistira, dias pkb, pkb, kota bogor, bogor barat, dapil 3, kota bogor bogor barat, partai kebangkitan bangsa, no 8, 8, pemilu, caleg, pemilu 2024, bukanpolitisigadungan, caleg milenial, caleg gen z, amin, anies baswedan, muhaimin iskandar, politik, ui, genre, perubahan, pileg, pileg kota bogor, rekomendasi caleg, rekomendasi caleg kota bogor, caleg berkualitas, politik bersih, anti korupsi, agamis, menang pemilu, strategi pemilu, toleransi, gus dur, gusdurian, abdul rahman wahid, ">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="Indonesia">
+    <meta name="author" content="Rizki Hutama">
+
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('apple-icon-57x57.png') }}">
