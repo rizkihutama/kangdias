@@ -9,7 +9,24 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="{{ asset('img/favicon.ico') }}" rel="icon">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('apple-icon-57x57.png') }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ asset('apple-icon-60x60.png') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('apple-icon-72x72.png') }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('apple-icon-76x76.png') }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('apple-icon-114x114.png') }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ asset('apple-icon-120x120.png') }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ asset('apple-icon-144x144.png') }}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ asset('apple-icon-152x152.png') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('apple-icon-180x180.png') }}">
+    <link rel="icon" type="image/png" sizes="192x192" href="{{ asset('android-icon-192x192.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('favicon-32x32.png">') }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ asset('favicon-96x96.png">') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('favicon-16x16.png">') }}">
+    <link rel="icon" href="{{ asset('favicon.ico') }}">
+    <link rel="manifest" href="{{ asset('manifest.json') }}">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{{ asset('ms-icon-144x144.png') }}">
+    <meta name="theme-color" content="#ffffff">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -87,7 +104,7 @@
                             data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
                             <span></span>
                         </button>
-                        <h5 class="ms-4 mb-0 d-none d-sm-block">Kang Dias Menayapa (Segera Tiba)</h5>
+                        <h5 class="ms-4 mb-0 d-none d-sm-block">Kang Dias Menyapa (Coming Soon)</h5>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -105,7 +122,7 @@
         <div class="modal-dialog">
             <div class="modal-content rounded-0">
                 <div class="modal-header">
-                    <h3 class="modal-title" id="exampleModalLabel">Comming Soon</h3>
+                    <h3 class="modal-title" id="exampleModalLabel">Coming Soon</h3>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -157,7 +174,7 @@
                     </p>
                     <p class="mb-3">
                         <i class="far fa-check-circle text-primary me-3"></i>
-                        Mengupayakan perluasan penyerapan tenaga kerja dan daya tampung sekolah negeri
+                        Mengupayakan perluasan penyerapan tenaga kerja dan daya tampung sekolah negeri.
                     </p>
                     <p class="mb-3">
                         <i class="far fa-check-circle text-primary me-3"></i>
@@ -353,10 +370,10 @@
             <div class="row g-4 portfolio-container wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('img/project-1.jpg') }}" alt="">
+                        <img class="img-fluid" src="{{ asset('img/a1.png') }}" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
-                                href="{{ asset('img/project-1.jpg') }}" data-lightbox="portfolio">
+                                href="{{ asset('img/a1.png') }}" data-lightbox="portfolio">
                                 <i class="fa fa-eye"></i>
                             </a>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
@@ -367,10 +384,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('img/project-2.jpg') }}" alt="">
+                        <img class="img-fluid" src="{{ asset('img/a2.png') }}" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
-                                href="{{ asset('img/project-2.jpg') }}" data-lightbox="portfolio">
+                                href="{{ asset('img/a2.png') }}" data-lightbox="portfolio">
                                 <i class="fa fa-eye"></i>
                             </a>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
@@ -381,10 +398,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('img/project-3.jpg') }}" alt="">
+                        <img class="img-fluid" src="{{ asset('img/a3.png') }}" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
-                                href="{{ asset('img/project-3.jpg') }}" data-lightbox="portfolio">
+                                href="{{ asset('img/a3.png') }}" data-lightbox="portfolio">
                                 <i class="fa fa-eye"></i>
                             </a>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
@@ -395,10 +412,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('img/project-4.jpg') }}" alt="">
+                        <img class="img-fluid" src="{{ asset('img/a4.png') }}" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
-                                href="{{ asset('img/project-4.jpg') }}" data-lightbox="portfolio">
+                                href="{{ asset('img/a4.png') }}" data-lightbox="portfolio">
                                 <i class="fa fa-eye"></i>
                             </a>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
@@ -409,10 +426,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('img/project-5.jpg') }}" alt="">
+                        <img class="img-fluid" src="{{ asset('img/a5.png') }}" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
-                                href="{{ asset('img/project-5.jpg') }}" data-lightbox="portfolio">
+                                href="{{ asset('img/a5.png') }}" data-lightbox="portfolio">
                                 <i class="fa fa-eye"></i>
                             </a>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
@@ -423,10 +440,52 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('img/project-6.jpg') }}" alt="">
+                        <img class="img-fluid" src="{{ asset('img/a6.png') }}" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
-                                href="{{ asset('img/project-6.jpg') }}" data-lightbox="portfolio">
+                                href="{{ asset('img/a6.png') }}" data-lightbox="portfolio">
+                                <i class="fa fa-eye"></i>
+                            </a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
+                                <i class="fa fa-link"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item first">
+                    <div class="portfolio-img rounded overflow-hidden">
+                        <img class="img-fluid" src="{{ asset('img/a7.png') }}" alt="">
+                        <div class="portfolio-btn">
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
+                                href="{{ asset('img/a7.png') }}" data-lightbox="portfolio">
+                                <i class="fa fa-eye"></i>
+                            </a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
+                                <i class="fa fa-link"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item second">
+                    <div class="portfolio-img rounded overflow-hidden">
+                        <img class="img-fluid" src="{{ asset('img/a8.png') }}" alt="">
+                        <div class="portfolio-btn">
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
+                                href="{{ asset('img/a8.png') }}" data-lightbox="portfolio">
+                                <i class="fa fa-eye"></i>
+                            </a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
+                                <i class="fa fa-link"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item first">
+                    <div class="portfolio-img rounded overflow-hidden">
+                        <img class="img-fluid" src="{{ asset('img/a9.png') }}" alt="">
+                        <div class="portfolio-btn">
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
+                                href="{{ asset('img/a9.png') }}" data-lightbox="portfolio">
                                 <i class="fa fa-eye"></i>
                             </a>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="">
@@ -446,20 +505,20 @@
         <div class="container">
             <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-6">
-                    <h1 class="display-5 mb-0" style="font-size: 3rem">Team Members</h1>
+                    <h1 class="display-5 mb-0" style="font-size: 3rem">Sahabat Kang Dias</h1>
                 </div>
-                <div class="col-lg-6 text-lg-end">
+                {{-- <div class="col-lg-6 text-lg-end">
                     <a class="btn btn-primary py-3 px-5" href="">Contact Us</a>
-                </div>
+                </div> --}}
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="{{ asset('img/no-data.svg') }}" alt="">
+                        <img class="img-fluid rounded" src="{{ asset('img/member1.png') }}" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Full Name</h5>
-                                <span>-</span>
+                                <h5>Rizki Hutama, A.Md.Kom (23 years)</h5>
+                                <span>IT Specialist</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
@@ -467,11 +526,11 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="{{ asset('img/no-data.svg') }}" alt="">
+                        <img class="img-fluid rounded" src="{{ asset('img/member2.png') }}" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Full Name</h5>
-                                <span>-</span>
+                                <h5>M. Fahriza S (20 years)</h5>
+                                <span>Social Media Specialist</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
@@ -479,11 +538,11 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="{{ asset('img/no-data.svg') }}" alt="">
+                        <img class="img-fluid rounded" src="{{ asset('img/member3.png') }}" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Full Name</h5>
-                                <span>-</span>
+                                <h5>Ust. Ibmi Subiar, S.Pd.I.</h5>
+                                <span>Advisor</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
