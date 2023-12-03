@@ -39,19 +39,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://kangidas.site/" />
+    <meta property="og:url" content="https://kangdias.site/" />
     <meta property="og:title" content="Dias Yudhistira" />
     <meta property="og:description"
         content="Kandidat Calon Legislatif Dapil 3 Kota Bogor Tahun 2024 - PKB No.8 Bachelor of Political Science Universitas Indonesia." />
-    <meta property="og:image" content="{{ asset('img/dias-meta-tag-image.png') }}" />
+    <meta property="og:image" content="{{ asset('img/dias-meta-image.png') }}" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://kangidas.site/" />
+    <meta property="twitter:url" content="https://kangdias.site/" />
     <meta property="twitter:title" content="Dias Yudhistira" />
     <meta property="twitter:description"
         content="Kandidat Calon Legislatif Dapil 3 Kota Bogor Tahun 2024 - PKB No.8 Bachelor of Political Science Universitas Indonesia." />
-    <meta property="twitter:image" content="{{ asset('img/dias-meta-tag-image.png') }}" />
+    <meta property="twitter:image" content="{{ asset('img/dias-meta-image.png') }}" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
