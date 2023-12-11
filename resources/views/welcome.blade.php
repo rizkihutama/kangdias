@@ -140,6 +140,49 @@
     </div>
     <!-- Header End -->
 
+    <!-- Bio Start -->
+    <div class="container-xxl py-6" id="bio">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="row g-3 mb-4">
+                        <div class="col-sm-11">
+                            <img class="img-fluid rounded" src="{{ asset('img/bio.svg') }}" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="d-flex align-items-center mb-5">
+                        <h1 class="display-5 mb-0">Tentang Kang Dias Yudhistira</h1>
+                    </div>
+                    <p class="mb-4">
+                        Merupakan lulusan Program Studi Sarjana Ilmu Politik Universitas Indonesia dengan perolehan IPK
+                        3.61. Pemuda yang berasal dari Cilendek Timur Bogor Barat ini, meskipun baru berusia 25 tahun,
+                        ia yakin dan percaya diri dengan pengalaman yang telah ia jalani.
+                        Selepas lulus dari SMA Negeri 5 Kota Bogor pada tahun 2017, ia melanjutkan pendidikan tinggi di
+                        Program Studi Ilmu Politik Universitas Indonesia melalui program beasiswa Kelas Pendidikan
+                        Karakter pemerintah Kota Bogor.
+                        <br />
+                        <br />
+                        Sebagai bentuk komitmen serta keseriusan atas bidang yang ditekuni, selama menjalankan
+                        studi dan hingga saat ini telah berpartisipasi aktif dalam beberapa program pemerintah Kota
+                        Bogor tertutama pada Dinas Pengendalian Penduduk dan Keluarga Berencana sebagai pegiat Generasi
+                        Berencana (Genre) dan berhasil membawa nama Kota Bogor di tingkat nasional, juga aktif pada
+                        Dinas Kesehatan, Dinas Arsip dan Perpustakaan Daerah dan saat ini tengah menjalankan program
+                        pembangunan Sistem Pengelolaan Air Limbah Domestik Setempat bersama Dinas PUPR.
+                        Di samping itu, ia juga terjun langsung dalam tiga partai politik dan saat ini memantapkan diri
+                        pada Partai Kebangkitan Bangsa (PKB).
+                        <br />
+                        <br />
+                        Dari pengalamanya tersebut, ia kemudian termotivasi untuk melakukan perubahan dan menciptakan
+                        iklim politik dan pemerintahan yang lebih sehat di Kota Bogor dengan turut serta menjadi
+                        kandidat calon anggota legislatif Kota Bogor pada pemilu 2024.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bio End -->
 
     <!-- Video Modal Start -->
     <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel"
@@ -168,7 +211,7 @@
     </div>
     <!-- Amin End -->
 
-    <!-- About Start -->
+    <!-- Misi Start -->
     <div class="container-xxl py-6" id="misi">
         <div class="container">
             <div class="row g-5">
@@ -243,11 +286,11 @@
             </div>
         </div>
     </div>
-    <!-- About End -->
+    <!-- Misi End -->
 
 
     <!-- Expertise Start -->
-    <div class="container-xxl py-6 pb-5" id="galeri">
+    <div class="container-xxl py-6 pb-5" id="skill">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -384,8 +427,8 @@
     <!-- Service End -->
 
 
-    <!-- Projects Start -->
-    <div class="container-xxl bg-light py-6 pt-5" id="project">
+    <!-- Galeri Start -->
+    <div class="container-xxl bg-light py-6 pt-5" id="galeri">
         <div class="container">
             <div class="row g-5 mb-5 align-items-center wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-6">
@@ -522,7 +565,7 @@
             </div>
         </div>
     </div>
-    <!-- Projects End -->
+    <!-- Galeri End -->
 
 
     <!-- Team Start -->
