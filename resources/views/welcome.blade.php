@@ -176,7 +176,7 @@
                         <br />
                         Dari pengalamanya tersebut, ia kemudian termotivasi untuk melakukan perubahan dan menciptakan
                         iklim politik dan pemerintahan yang lebih sehat di Kota Bogor dengan turut serta menjadi
-                        kandidat calon anggota legislatif Kota Bogor pada pemilu 2024.
+                        kandidat calon anggota legislatif Kota Bogor pada pemilu 2024, <strong>PKB No.8</strong>.
                     </p>
                 </div>
             </div>
