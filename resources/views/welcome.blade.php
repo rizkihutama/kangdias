@@ -156,6 +156,19 @@
                         <h1 class="display-5 mb-0">Tentang Kang Dias Yudhistira</h1>
                     </div>
                     <p class="mb-4">
+                        <strong>
+                            <em>
+                                "Saya memang bukanlah orang yang terbaik, tetapi saya berusaha mencegah orang terburuk
+                                untuk dapat berkuasa."
+                                <br />
+                            </em>
+
+                            - Dias Yudhistira
+                        </strong>
+
+                        <br />
+                        <br />
+
                         Merupakan lulusan Program Studi Sarjana Ilmu Politik Universitas Indonesia dengan perolehan IPK
                         3.61. Pemuda yang berasal dari Cilendek Timur Bogor Barat ini, meskipun baru berusia 25 tahun,
                         ia yakin dan percaya diri dengan pengalaman yang telah ia jalani.
